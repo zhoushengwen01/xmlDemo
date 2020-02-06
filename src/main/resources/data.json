@@ -1,0 +1,24 @@
+{
+  "mark": "标记1",
+  "attribute": "总线属性1",
+  "name": "总线1",
+  "messages": [
+    {
+      "mark": "消息标记1",
+      "attribute": "消息属性1",
+      "name": "消息1",
+      "sign": [
+        {
+          "mark": "信号标记11",
+          "attribute": "信号属性11",
+          "name": "信号11"
+        },
+        {
+          "mark": "信号标记12",
+          "attribute": "信号属性12",
+          "name": "信号12"
+        }
+      ]
+    }
+  ]
+}
